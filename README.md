@@ -4,3 +4,7 @@ One can interface an Led on any pin of Arduino and a HC-05 Bluetooth Module will
 After pairing you will be able to control the Led Brightness using this Android Application.
 The best part of this project is that you can interface your light dimmer on any pin and still this aapplication will function because it does not depend on Arduino on which pin it has been interfaced.
 It functions after pairing the the hardware and software which this app is capable of doing that.
+
+
+
+ARDUINO CODE FOR THIS LED APP IS : https://github.com/Dhiraj240/Controlled-Home-and-Industry-Automation/blob/master/LED_Write_Read.ino
